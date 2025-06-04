@@ -13,6 +13,7 @@ public class FinchDemo {
             myFinch.pause(1);
             myFinch.setBeak(0, 0, 0);
             myFinch.pause(1);
+
         }
 
         myFinch.stopAll();
